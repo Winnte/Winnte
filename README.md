@@ -1,3 +1,4 @@
+```cpp
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
@@ -154,3 +155,4 @@ int main() {
 
   return 0;
 }
+``
