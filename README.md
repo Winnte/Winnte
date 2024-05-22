@@ -1,5 +1,5 @@
 проект "крестики-нолики" на C++
-![image](https://github.com/Winnte/Winnte/assets/170184252/64f5930f-08c3-45f1-9f98-11c23651085d)
+![image](https://github.com/Winnte/Winnte/assets/170184252/c869f975-d168-478b-bba8-491d66e79b99)
 
 ```cpp
 #include <cmath>
