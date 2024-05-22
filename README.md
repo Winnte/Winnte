@@ -1,5 +1,11 @@
 проект "крестики-нолики" на C++
 ![image](https://github.com/Winnte/Winnte/assets/170184252/c869f975-d168-478b-bba8-491d66e79b99)
+![image](https://github.com/Winnte/Winnte/assets/170184252/16601d8c-c063-43ea-8dfa-348b42508e1e)
+![image](https://github.com/Winnte/Winnte/assets/170184252/3d22f70e-973a-40cb-b2fa-8d8ce58bb0a7)
+![image](https://github.com/Winnte/Winnte/assets/170184252/2be8df93-f495-457f-a0b8-8daeda071d9c)
+![image](https://github.com/Winnte/Winnte/assets/170184252/85b429ad-c49d-472f-a406-270b2cc3cd09)
+чтобы запустить проект, нужно подключить библиотеку rang.hpp
+
 
 ```cpp
 #include <cmath>
