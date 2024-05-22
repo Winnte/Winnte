@@ -4,6 +4,7 @@
 ![image](https://github.com/Winnte/Winnte/assets/170184252/3d22f70e-973a-40cb-b2fa-8d8ce58bb0a7)
 ![image](https://github.com/Winnte/Winnte/assets/170184252/2be8df93-f495-457f-a0b8-8daeda071d9c)
 ![image](https://github.com/Winnte/Winnte/assets/170184252/85b429ad-c49d-472f-a406-270b2cc3cd09)
+
 чтобы запустить проект, нужно подключить библиотеку rang.hpp
 
 
