@@ -1,4 +1,6 @@
 проект "крестики-нолики" на C++
+![image](https://github.com/Winnte/Winnte/assets/170184252/64f5930f-08c3-45f1-9f98-11c23651085d)
+
 ```cpp
 #include <cmath>
 #include <cstdlib>
